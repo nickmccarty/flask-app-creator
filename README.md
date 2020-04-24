@@ -8,10 +8,18 @@
 
 ---
 
-![./images/bash_terminal.JPG](./images/bash_terminal.JPG)
+![](./images/bash_terminal.JPG)
 
 ---
 
 Now, you have freshly-constructed Flask app, which can be viewed in the browser by running your "app.py" file (see below)!
 
-![./images/bash_terminal.JPG](./images/command_terminal.JPG)
+![](./images/command_terminal.JPG)
+
+---
+
+Your file structure now looks like this:
+
+![](./images/tree_view.JPG)
+
+---
