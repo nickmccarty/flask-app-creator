@@ -20,6 +20,6 @@ Now, you have freshly-constructed Flask app, which can be viewed in the browser 
 
 Your file structure now looks like this:
 
-![](./images/tree_view.JPG){:height="700px" width="400px"}
+![](./images/tree_view.JPG {:height="700px" width="400px"})
 
 ---
