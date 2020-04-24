@@ -22,7 +22,7 @@ And your file structure now looks like this:
 
 <img src="./images/tree_view.JPG" alt="Your image title" height="400"/>
 
-**Note that a ```Procfile``` and ```requirements.txt``` file were included, in case you intend to deploy your app using Heroku.**
+**Note that a ```Procfile``` and ```requirements.txt``` file were included, in case you intend to deploy your app using Heroku. Additionally, a ```data``` folder was included to help organize various stages of data processing, and a ```notebook``` folder was included to serve an equivalent purpose with respect to notebooks.**
 
 ---
 
