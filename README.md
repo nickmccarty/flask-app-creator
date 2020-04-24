@@ -3,8 +3,8 @@
 > It's as easy as:
 
 > - [x] Cloning the repo,
-> - [x] Making "flask_app_creator" your current directory, and
-> - [x] Running the "create_flask_app" shell script (see below)
+> - [x] Making ```flask_app_creator``` your current directory, and
+> - [x] Running the ```create_flask_app``` shell script
 
 ---
 
@@ -12,12 +12,18 @@
 
 ---
 
-Now, you have freshly-constructed Flask app, which can be viewed in the browser by running your "app.py" file (see below)!
+Now, you have freshly-constructed Flask app, which can be viewed in the browser by running your ```app.py``` file!
 
 ![](./images/command_terminal.JPG)
 
 ---
 
-Your file structure now looks like this:
+And your file structure now looks like this:
 
 <img src="./images/tree_view.JPG" alt="Your image title" height="400"/>
+
+---
+
+Bonus: your ```index.html``` file was created with the Bootstrap, Plotly, and D3 CDN links written into it:
+
+![](./images/homepage.JPG)
