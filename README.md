@@ -2,9 +2,9 @@
 
 > It's as easy as:
 
-> 1) Cloning the repo,
-> 2) Making "flask_app_creator" your current directory, and
-> 3) Running the "create_flask_app" shell script (see below)
+> - [x] Cloning the repo,
+> - [x] Making "flask_app_creator" your current directory, and
+> - [x] Running the "create_flask_app" shell script (see below)
 
 ---
 
