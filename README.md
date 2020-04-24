@@ -26,6 +26,6 @@ And your file structure now looks like this:
 
 ---
 
-Bonus: your ```index.html``` file was created with the Bootstrap, Plotly, and D3 CDN links written into it:
+**Bonus:** your ```index.html``` file was created with the Bootstrap, Plotly, and D3 CDN links written into it:
 
 ![](./images/homepage.JPG)
