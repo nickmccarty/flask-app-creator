@@ -20,4 +20,4 @@ Now, you have freshly-constructed Flask app, which can be viewed in the browser 
 
 Your file structure now looks like this:
 
-<img src="./images/tree_view.JPG" alt="Your image title" height="200"/>
+<img src="./images/tree_view.JPG" alt="Your image title" height="400"/>
