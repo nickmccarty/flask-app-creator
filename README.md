@@ -2,7 +2,7 @@
 
 > It's as easy as:
 
-> - [x] Cloning the repo,
+> - [x] Cloning or downloading the repo,
 > - [x] Making ```flask_app_creator``` your current directory, and
 > - [x] Running the ```create_flask_app``` shell script
 
