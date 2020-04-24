@@ -22,6 +22,8 @@ And your file structure now looks like this:
 
 <img src="./images/tree_view.JPG" alt="Your image title" height="400"/>
 
+**Note that a ```Procfile``` and ```requirements.txt``` file were included, in case you intend to deploy your app using Heroku.**
+
 ---
 
 Bonus: your ```index.html``` file was created with the Bootstrap, Plotly, and D3 CDN links written into it:
