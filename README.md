@@ -6,6 +6,8 @@
 > 2) Making "flask_app_creator" your current directory, and
 > 3) Running the "create_flask_app" shell script (see below)
 
+---
+
 ![./images/bash_terminal.JPG](./images/bash_terminal.JPG)
 
 ---
